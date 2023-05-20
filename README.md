@@ -1,28 +1,4 @@
 
-<style>
-    .center{
-        display: flex;
-        flex-direction: column;
-        margin: 0 auto;
-        width: 400px;
-        height: 100vh;
-    }
-    .desafio{
-        background-color: #333;
-        padding:10px;
-        border-radius: 10px;
-        margin: 30px 0;
-    }
-    span{
-        color:red;
-    }
-    p{
-        color:#d3d;
-    }
-</style>
-
-
-
 ### 
 
 <div class='center'>
