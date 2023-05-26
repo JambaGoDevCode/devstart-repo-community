@@ -27,4 +27,3 @@
             <li> <span>(Design de interface)</span> Figma | XD </li>
          </ul>
     </div>
-</div>
