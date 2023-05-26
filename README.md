@@ -1,26 +1,4 @@
 
-<style>
-    .center{
-        display: flex;
-        flex-direction: column;
-        margin: 0 auto;
-        width: 400px;
-        height: 100vh;
-    }
-    .desafio{
-        background-color: #333;
-        padding:10px;
-        border-radius: 10px;
-        margin: 30px 0;
-    }
-    span{
-        color:red;
-    }
-    p{
-        color:#d3d;
-    }
-</style>
-
 
 
 ### 
@@ -42,6 +20,20 @@
         <h3>Desafio 1 - Calculadora</h3>
         <div>
             <img src='https://cdn.hashnode.com/res/hashnode/image/upload/v1631766409611/zDDhlwDmB.jpeg?auto=compress,format&format=webp'/>
+        </div>
+         <h3>Requisito</h3>
+         <ul>
+            <li>Git e Github</li>
+            <li><span>(Iniciantes)</span> HTML CSS JavaScript</li>
+            <li><span>(Pleno e Sénior)</span> React | Vue | Angular </li>
+            <li> <span>(Design de interface)</span> Figma | XD </li>
+         </ul>
+    </div>
+    <div class='desafio'>
+    <!-- fff -->
+        <h3>Desafio 2 - Blog Website</h3>
+        <div>
+            <img src='https://cdn.hashnode.com/res/hashnode/image/upload/v1631767024505/xnscZY4N1.webp?auto=compress,format&format=webp'/>
         </div>
          <h3>Requisito</h3>
          <ul>
